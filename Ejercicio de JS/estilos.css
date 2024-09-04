@@ -1,0 +1,20 @@
+#nombre{
+    border: solid,black 2px;
+    
+    
+}
+
+.nombre{
+    margin-left: 500px;
+}
+
+.btn-guardar{
+    height: 80px; ;
+    width: 150px;
+}
+
+.welcome{
+    font-size: 50px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
